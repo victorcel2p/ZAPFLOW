@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { ViewState, Contact, InternalGroup, ScheduledMessage, Order, Material, Conversation, ChatMessage } from './types';
 import Sidebar from './components/Sidebar';
